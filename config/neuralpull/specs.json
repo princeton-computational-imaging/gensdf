@@ -1,0 +1,29 @@
+{
+  "Description" : [ "neuralpull + 20000*25 (original sampling)..." ],
+  "DataSource" : "data",
+  "TrainSplit" : "data/splits/bed_subset.json",
+  "TestSplit" : "data/splits/bed_subset.json",
+  "Model" : "NeuralPull",
+  "TrainData" : "unlabeled",
+
+  "DecoderSpecs" : {
+    "hidden_dim" : 512,
+    "geo_init":true
+  },
+
+  "SampPerMesh" : 500000,
+  "PCsize":20000,
+  "QueryPerPoint":25,
+  "SampPerBatch" : 5000,
+
+  "NumEpochs" : 2001,
+  "LogFrequency" : 1001,
+
+  "LearningRate" : {
+    "init" : 1e-4,
+    "step_size" : 500,
+    "gamma" : 0.5
+  }
+
+}
+

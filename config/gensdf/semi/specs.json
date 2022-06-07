@@ -1,0 +1,47 @@
+{
+  "Description" : [ "gensdf semi-supervised stage 2, loading from meta-learning stage pretrained model..." ],
+  "DataSource" : "data",
+  "LabeledTrainSplit" : "data/splits/lab_split.json",
+  "UnLabeledTrainSplit" : "data/splits/unlab_split.json",
+  "TestSplit" : "data/splits/unseen_split.json",
+  "Model" : "GenSDF",
+  "TrainData" : "semi",
+  "SplitDataFreq":false,
+
+  "EncoderSpecs" : {
+    "latent_size" : 256,
+    "hidden_dim" : 64,
+    "unet_kwargs" : {"depth": 4, "merge_mode": "concat", "start_filts": 32},
+    "plane_resolution" : 64
+  },
+
+  "DecoderSpecs" : {
+    "hidden_dim" : 512,
+    "weight_norm" : false,
+    "skip_connection" : true,
+    "geo_init":true,
+    "dropout_prob" : 0.0
+  },
+
+  "LabSamplesPerMesh":16000,
+  "LabPCsize":1024,
+
+  "SampPerMesh" : 130000,
+  "SampFromMesh" : 100000,
+  "SampPerBatch" : 5000,
+  "PCsize" : 5000,
+  "ProcessPC":5000,
+
+  "Alpha":0.1,
+
+  "NumEpochs" : 100001,
+  "LogFrequency" : 20,
+
+  "LearningRate" : {
+    "init" : 1e-4,
+    "step_size" : 1000000,
+    "gamma" : 0.5
+  }
+
+}
+

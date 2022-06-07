@@ -1,0 +1,36 @@
+{
+  "Description" : [ "training deepsdf..." ],
+  "DataSource" : "/data",
+  "TrainSplit" : "data/splits/lab_split.json",
+  "TestSplit" : "data/splits/lab_split.json",
+  "Model" : "DeepSDF",
+  "TrainData" : "labeled",
+
+  "EncoderSpecs" : {
+    "latent_size" : 256
+  },
+
+  "DecoderSpecs" : {
+    "hidden_dim" : 512,
+    "weight_norm" : true,
+    "skip_connection" : true,
+    "geo_init":false,
+    "dropout_prob" : 0.2,
+    "tanh_act":true
+  },
+
+  "SampPerMesh" : 16384,
+  "Alpha":1e-4,
+
+  "NumEpochs" : 2001,
+  "LogFrequency" : 50,
+
+  "LearningRate" : {
+    "enc_init" : 1e-3,
+    "dec_init" : 5e-4,
+    "step_size" : 250,
+    "gamma" : 0.5
+  }
+
+}
+

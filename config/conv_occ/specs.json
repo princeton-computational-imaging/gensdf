@@ -1,0 +1,33 @@
+{
+  "Description" : [ "training convolutional occupancy networks..." ],
+  "DataSource" : "data",
+  "TrainSplit" : "data/splits/lab_split.json",
+  "TestSplit" : "data/splits/unseen_split.json",
+  "Model" : "ConvOccNet",
+  "TrainData" : "labeled",
+
+  "EncoderSpecs" : {
+    "latent_size" : 32,
+    "hidden_dim" : 32,
+    "unet_kwargs" : {"depth": 4, "merge_mode": "concat", "start_filts": 32},
+    "plane_resolution" : 64
+  },
+
+  "DecoderSpecs" : {
+    "hidden_dim" : 512
+  },
+
+  "SampPerMesh" : 2048,
+  "PCsize" : 3000,
+
+  "NumEpochs" : 3001,
+  "LogFrequency" : 1001,
+
+  "LearningRate" : {
+    "init" : 1e-4,
+    "step_size" : 50000,
+    "gamma" : 0.5
+  }
+
+}
+

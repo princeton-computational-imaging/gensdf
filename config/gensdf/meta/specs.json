@@ -1,0 +1,43 @@
+{
+  "Description" : [ "gensdf meta-learning stage 1..." ],
+  "DataSource" : "data",
+  "TrainSplit" : "data/splits/lab_split.json",
+  "TestSplit" : "data/splits/unseen_split.json",
+  "Model" : "GenSDF",
+  "TrainData" : "meta",
+  "SplitDataFreq":1000,
+  "PrepDataDir":"preprocessed_data",
+
+  "EncoderSpecs" : {
+    "latent_size" : 256,
+    "hidden_dim" : 64,
+    "unet_kwargs" : {"depth": 4, "merge_mode": "concat", "start_filts": 32},
+    "plane_resolution" : 64
+  },
+
+  "DecoderSpecs" : {
+    "hidden_dim" : 512,
+    "weight_norm" : false,
+    "skip_connection" : true,
+    "geo_init":true
+  },
+
+  "SampPerMesh" : 130000,
+  "SampFromMesh" : 100000,
+  "SampPerBatch" : 16384,
+  "PCsize" : 1024,
+  "ProcessPC":5000,
+
+  "Alpha":0.1,
+
+  "NumEpochs" : 40001,
+  "LogFrequency" : 2000,
+
+  "LearningRate" : {
+    "init" : 1e-4,
+    "step_size" : 10000000,
+    "gamma" : 0.5
+  }
+
+}
+

@@ -1,0 +1,786 @@
+{
+    "acronym": {
+        "1Shelves": [
+            "a9c2bcc286b68ee217a3b9ca1765e2a4",
+            "160684937ae737ec5057ad0f363d6ddd",
+            "1e3df0ab57e8ca8587f357007f9e75d1"
+        ],
+        "2Shelves": [
+            "cb87ed53ab8d2a50f4af63522c219933",
+            "1ab8202a944a6ff1de650492e45fb14f",
+            "df03b94777b1f0f9e4e3c2d62691be9"
+        ],
+        "3Shelves": [
+            "b8eb9918623a90fe14b86d5282eb8301",
+            "10eb10fe18126d45b97ad864945165a1",
+            "a7f3b2bb0c3fc98ec0fde2154dbc178f"
+        ],
+        "5Shelves": [
+            "4382a7a2860ff8dda67210eeab485ee6",
+            "fc45d911f8b87b1aca32354d178e0245",
+            "3d422581d2f439c74cc1952ae0d6e81a"
+        ],
+        "6Shelves": [
+            "8589e65944de365351c41225db8e334",
+            "aa7c53c8744d9a24d810b14a81e12eca",
+            "decd164f9cf7ff4914962008498757af"
+        ],
+        "7Shelves": [
+            "9d3a19ea09e977fdd810b14a81e12eca",
+            "8d6a9c610ee36042153f43b48d21615e",
+            "693836c29e5fa6179a2988e955b5ae43"
+        ],
+        "AAABattery": [
+            "a924eb3037129eaff8095890d92b7d6c"
+        ],
+        "AABattery": [
+            "b19a5b014dc258084c67f377a28bcf90"
+        ],
+        "Backpack": [
+            "161349b8cd18f115efa543560e97764f",
+            "ec1b9ac45597e4cd9318cfd6c0d37d9b",
+            "3ee7c293fbb017d28c01c03e8a2aa33c"
+        ],
+        "Bag": [
+            "b914f95b191ad7c27f91c3974257b780",
+            "a405a7ca363c7c41bbda4bd2b976d8f7",
+            "7565e6f425dd6d376d987ae9a225629c"
+        ],
+        "Ball": [
+            "730cf06c9c029ae45e1b0bd500a24ffc",
+            "38bda8fa453447d9b4d73e4449062b04",
+            "7b30c2aba7782fd93c4691e221dfcd0"
+        ],
+        "Banana": [
+            "ba0d56295321002718ddbf38fa69c501"
+        ],
+        "Basket": [
+            "1625299b6a0ea2ff7649cce35db393a1",
+            "2d8bb293b226dcb678c34bb504731cb9",
+            "40ff424bfe4cd555ae25f6fe802a8997"
+        ],
+        "Bathtub": [
+            "e916f0aa99e67f908449e0b8dd14796b",
+            "94127f8b603a8f2db21fad62c1f53656",
+            "f18befe5cd771ef4d490a2f9c1600338"
+        ],
+        "Battery": [
+            "62733b55e76a3b718c9d9ab13336021b",
+            "9ef02f2ccd82f254a780807144cc58d9",
+            "a27f760d79386b7ae520afb34d7d31e4"
+        ],
+        "BeanBag": [
+            "5aeefb539699524044b2fa2cac0778f5",
+            "de862f78d1412e5268d4f5a3519f61be",
+            "4fa3a2c2b7ff8766a1c637e821f12a67"
+        ],
+        "Bear": [
+            "a200c5af60e49857b7d0eee5f296f7bb",
+            "52f9a230c400bddd55330ea4156a425f",
+            "66dfcafd1ca29817de1afe4c8aa3dcce"
+        ],
+        "Bed": [
+            "50ac71533d4bfdf2c5b48973abb55017",
+            "e0bd1850ff5dd7e9485059ffe7a2f9c7",
+            "e71d47235a7988dfe7e684d25d4dcaf0"
+        ],
+        "BeerBottle": [
+            "f452c1053f88cd2fc21f7907838a35d1",
+            "5566f264a6fa08cd2a68e506fbd6eecf",
+            "8309e710832c07f91082f2ea630bf69e"
+        ],
+        "Bird": [
+            "6f15389d26f166488976b8df93909268",
+            "41c002793fb78ecd73b3b0e3e8724599",
+            "79ec4c73801b76e0da742f07f7037998"
+        ],
+        "Board": [
+            "499623d9dccc195af8fd14d222168087",
+            "5c3d7bed7bb05345dda5b141a8e83fa9",
+            "b09fee75360209805a4cd9b26f359d36"
+        ],
+        "Bookcase": [
+            "d3f4e22eaa46dd33d810b14a81e12eca",
+            "34e73c7fb43d489cd810b14a81e12eca",
+            "cd0563a71a03b69688dcbe86402c7c15"
+        ],
+        "Books": [
+            "4e28ad7fb4af727a1def65db7ddbfcea",
+            "75bbcd01c96beaec82db852ae1b583d",
+            "68bbf69cd8c771d27bf41c709bc6a298"
+        ],
+        "Booth": [
+            "17cba19c6eb02655086f69b146d7b59"
+        ],
+        "BreadSlice": [
+            "a519b4452df538bb6784d208b59d3e05",
+            "944ce3708f74e150428633fb5d4d2ce5",
+            "bb9cbdc12c5a92d24361643054305a5c"
+        ],
+        "Bucket": [
+            "302dce155e54539bf54e1b6f41fdd78a",
+            "43bcea066d246875d3cce5e618a132d2",
+            "997f1218df2b1909ce0e7190fd762087"
+        ],
+        "Cabling": [
+            "3a446526f643a8b17cb6063855e6199b",
+            "3d20a0473db7da2731be0e674a4a8204"
+        ],
+        "Cage": [
+            "415de627862a5fe950de3d37d8b14da",
+            "16bb10ad445ecfdaa476d4febccee",
+            "9c16a7f60a8b9861e261798ee465b6eb"
+        ],
+        "Cake": [
+            "338612e487c730cb1536fca1645a00b2",
+            "ffe702c059d0fe5e6617a7fd9720002b",
+            "60e7807fae256b9edc0dec45107520e9"
+        ],
+        "CanOpener": [
+            "ef6762a35438931aec2282dd8bc87a",
+            "707246e05d42091fc623f57334967f5e"
+        ],
+        "Canister": [
+            "abeaed132c7266b73e9c38134dedd15c",
+            "714320da4aafcb4a47be2353d2b2403b"
+        ],
+        "CanopyBed": [
+            "c413e1b31896c5753413a73da306e093",
+            "b0b8704a2fd27c5787f1a2cb0c79506b",
+            "bf7c529d88c445b5ba5661af6811c573"
+        ],
+        "Cap": [
+            "90c6bffdc81cedbeb80102c6e0a7618a",
+            "c2cf2cf35d08662945c5fa74440a4519",
+            "dc3e5c0457defe87a52821bf1aa3b19a"
+        ],
+        "Car": [
+            "d514864129f44931aa2c589772d7a017",
+            "669043a8ce40d9d78781f76a6db4ab62",
+            "5b265f93f6fb4045b41ed43178894af2"
+        ],
+        "Carrot": [
+            "7e7a299660c01b25c762eb31f1f0c676",
+            "c1f6eee3eb00e113ce57808a340ca8e"
+        ],
+        "Cassette": [
+            "54878d2b00d673b1819c4700f82fab78",
+            "bfb42be12a21fd047485047779434488",
+            "c294fbb74defe9ea58bc52a3cb9ad93d"
+        ],
+        "Cat": [
+            "f0b4f696e91f59af18b14db3b83de9ff",
+            "2163e8058aaa96a771879a51f4bce289",
+            "13af92fb42fdc0d774d5a6a8a8e5a2e"
+        ],
+        "CeilingFan": [
+            "867e571c3e29dfbf66537617184ecf",
+            "3d89495edda6775d7209833c7512d6a2",
+            "851d357b09f16589712e24e65da171b7"
+        ],
+        "ChildBed": [
+            "12a73cdd42517d8f65331068961955c9",
+            "e5d8ae73ad96bb39f4d75fdbcde884f",
+            "ca8d094e63f66ddcae6fe29dd17620c1"
+        ],
+        "Chocolate": [
+            "27f8f22fea3cc34219cd7d4b344db6b9",
+            "c79da9bcb5c6f6a5a544d74fd0364407",
+            "7e4a9a798139f79f9f6d89bc2f25881b"
+        ],
+        "Coaster": [
+            "17a95ccadaa7818db5e08197be0feebd",
+            "3c79dcaa0e35248485cac25b72167160"
+        ],
+        "CoatRack": [
+            "dd68171f9523e02e6a3e8787cfca8500",
+            "64bfb5301a9d9a3e9a8c31231dd99d82",
+            "ae3a6b23b326e3205057ad0f363d6ddd"
+        ],
+        "Coin": [
+            "cb826e0205ac0134316e398e79bfa21a",
+            "d85d70ee773585b4158f0afc845a367",
+            "f28ea389bf901129de650492e45fb14f"
+        ],
+        "Computer": [
+            "16eff9b1bc7fe22d49d3c3e3d26b9121"
+        ],
+        "ComputerMouse": [
+            "6560e938bffb3df1d0063b5c282d168a",
+            "379e93edfd0cb9e4cc034c03c3eb69d",
+            "8b91348fd811322e583f4c0d2625bf24"
+        ],
+        "Controller": [
+            "13b4f0c8e3e0ee254b70ab68e918c7e9",
+            "61c6c6a47e5b9d34496c7671bf276db5"
+        ],
+        "Cookie": [
+            "e1bc84ee7b9ef7f331999dc8823fe0d",
+            "a8e3118bec4c495f737a00f007529fbf",
+            "6a4bcdda0de2810190a3f8bc630957a8"
+        ],
+        "Copier": [
+            "8f827c87f5f7c053f105ef303e18c873",
+            "1d2a6082238f011c22d3f170937c6a0b",
+            "a945e3df688458ae8075fd3e4c0fdb7"
+        ],
+        "Counter": [
+            "554a7931dd2bc4e827b73eb36515554",
+            "92c682f884458e67700e86b51ee00536",
+            "c12495749f34cc9013d3eba49e0a8940"
+        ],
+        "Courtyard": [
+            "room21",
+            "room19",
+            "room20"
+        ],
+        "Cow": [
+            "720025ba8f1ca815bec6be80de02c183",
+            "15ada01cd6482fb1e80df3c23687288a",
+            "67d466a374e88c3de80df3c23687288a"
+        ],
+        "Cradle": [
+            "e3d2b537998ecd3e980a08795f2faeee"
+        ],
+        "Credenza": [
+            "5a6d54d527a9bf01d6944324b21393b5",
+            "6b3962b274eff217855c835f93769fb8",
+            "fd77d891d762fa99bbca1ad96622b322"
+        ],
+        "CupCake": [
+            "f0478ebaf78cf805749b5e5d3d88edcd"
+        ],
+        "CurioCabinet": [
+            "d67f1effed6e65fb2c45f75322191dd7",
+            "b06b351b939e279bc5ff6d1af2135fc9",
+            "8304302c8b4179ba98d5fc0473d00a1c"
+        ],
+        "DSLRCamera": [
+            "fb3b5fae94f7b02a3b269928487f8a4c"
+        ],
+        "DecorativeAccessory": [
+            "7214146214653e4ae06fb3e32a913ea",
+            "f8745ee3fc3fb3d0f3ba576cb5fdcfc2",
+            "b3a10a84b50a5096d0c3b60b0d244df3"
+        ],
+        "DiscCase": [
+            "30bbf4c0046123dad8d2e2560dfff359",
+            "527f99b597b9eef9b89c32e5ba005b86",
+            "7f3791a9931ed296d9b40382485f92"
+        ],
+        "Dog": [
+            "2526b1f358f773034203f59b4fda924b",
+            "d6ee5fee4374b404ea7973eb2e95e6f1",
+            "a39484a9d57d1b149fdc03fc6d14c305"
+        ],
+        "Donkey": [
+            "b09e0a52bd3b1b4eab2bd7322386ffd"
+        ],
+        "Donut": [
+            "615d0b4bbec771e99a6e43b878d5b335",
+            "c6240441f9be5ad171fa3942fdf21d0b",
+            "e95cdc472bc1c06eb29a0c6251df0453"
+        ],
+        "DonutBox": [
+            "dc85129ccc6b06b344608b3255ca1886",
+            "55587f4d6758076425806bb541b18c1d",
+            "ab3040a04309cc19dd3d821abaa89276"
+        ],
+        "Door": [
+            "91a335e728bd8af2166ae904b6d1652b",
+            "4a356207ffa8ce01360a9d5ff73ffdad"
+        ],
+        "DoubleBed": [
+            "5bbcf08fabf2d50336b41ce3eef1f5be",
+            "9c46d47408af25647fe87160d3f23913",
+            "e8add7acb28e2505fd40810f48721e8b"
+        ],
+        "DraftingTable": [
+            "9a3ef2de8b9a86259d8ec662103d0c29",
+            "43a79ef3ba97e34c273d0d46c49e9e78",
+            "527b2d1e964f056383be1aa5a5ab0c80"
+        ],
+        "DresserWithMirror": [
+            "9182be1d6719f67d9e05f04c67edaa05",
+            "28f1c6c292c0190480360680c1602c7d",
+            "ad5a6d3f05284bde83f3ef99fe735c7e"
+        ],
+        "DrinkBottle": [
+            "7d41c6018862dc419d231837a704886d",
+            "1ef68777bfdb7d6ba7a07ee616e34cd7",
+            "a429f8eb0c3e6a1e6ea2d79f658bbae7"
+        ],
+        "DrinkingUtensil": [
+            "c491d8bc77f4fb1ca4c322790a683350",
+            "4ec31503deb053636c19a70b7478f722",
+            "33055bd7de13d7c457c8665a60920ff1"
+        ],
+        "DrumSet": [
+            "1c9ad9ac03118350a74715902b46b14c"
+        ],
+        "Easel": [
+            "6ae0549d62815cc7bb84c2f42293db2d",
+            "718aa70278327ce47c34254f3a8a8bcd",
+            "1f7f3ab6281052bf1f6a5b0146bf3030"
+        ],
+        "Elephant": [
+            "41f793f8e68ec13ad59349122c0b3482",
+            "ea9abec0575c368c2849c1bb7e14c774",
+            "7a3f9539418a3e00208be694d330e44e"
+        ],
+        "Eraser": [
+            "8fd8bde573f8478f2c267af44846be1a",
+            "a829645a9e2957bb2fb534e18cb8cca",
+            "5624a19e813963ccc50bcbf8f9ed39a4"
+        ],
+        "Fan": [
+            "cc6d5dacc531d22cdb0e1d83b221a78",
+            "6d0d955e157df3b854c4a6fc7393870c",
+            "efdfdb552d44891087e003cf983ff53d"
+        ],
+        "Faucet": [
+            "bafb5f206f100bffabd7f138f3335c2b",
+            "346a94616fa138bb85d4c34ee84c24a9",
+            "d7cf692d85e4e7744ba6ca09672977ec"
+        ],
+        "FileCabinet": [
+            "aeb08906aded103ad61a2ba1b75d9b90",
+            "ae4c4273468905586ae3841175e518b2",
+            "1880ed173d662f92c78621ab7e0ef193"
+        ],
+        "Fish": [
+            "589d2eb42f3f66d83a042ac5fff3239b",
+            "467293688a8ce5b31f6a5b0146bf3030",
+            "8e08d0309eeaea3391837c6e444d6d63"
+        ],
+        "Flashlight": [
+            "614c2672926d86d96b84415a3f1393b",
+            "5c7bf45b0f847489181be2d6e974dccd",
+            "6182be9b916ade25dd25a522583661aa"
+        ],
+        "Fork": [
+            "52cb2e7475ba465b5515867ce6d7bbc",
+            "6970d21f2c2146656ab04bd3af593c95",
+            "d837bbbd63952a351e652fa812161367"
+        ],
+        "Fruit": [
+            "7d78e217e0ba160fe2b248b8bb97d290",
+            "e36e008ee74c2ffcf338a37c4adf9d76",
+            "f6e6117261dca163713c042b393cc65b"
+        ],
+        "GameTable": [
+            "c1c9b576a64f47247b6fd5468f603b31",
+            "505a7d1ac1b92bcab398a1cfd1079875",
+            "ccf25632490a30fcd2a164f6df81537c"
+        ],
+        "Gamecube": [
+            "34fbbfd72d2ff245a22181eaae22bac2",
+            "92c527aecefcd1c1d5f67d7e37b44e96",
+            "f732c387a9edad30998b772595cc99e5"
+        ],
+        "Glasses": [
+            "ac09e2d04f2cf7d26a183d3cfce1d1e4",
+            "4f079d4125276ae58064e4301e947b0d",
+            "2ed76efe98e1d6a8e4670226b51cdc8"
+        ],
+        "GuitarStand": [
+            "832c41c2f8974ec8de5ae1c2dccad719",
+            "114ada02ab35426af5afb395b99ae069",
+            "dd4b14270d587751fe0cf14ab3410ed"
+        ],
+        "Hammer": [
+            "e86500f6e9b4e88ea8963fe61f2bc75f",
+            "a49a6c15dcef467bc84c00e08b1e25d7",
+            "4502bbd24057ac99c2ca1dbfbac7f449"
+        ],
+        "Hanger": [
+            "5e522680281e47d8af703097c4a4f35c",
+            "845b1b9b88f5c67d3278d5af88d77dcd",
+            "5aa1d74d04065fd98a7103092f8e8a33"
+        ],
+        "Hat": [
+            "a8ddbd8c9cdb3088d2eebe596133133e",
+            "750d92eefed5179676bb31db0358e9c6",
+            "e5f04b5c682d3d4f287e4d80495d0796"
+        ],
+        "Headboard": [
+            "303b93de01106f24b79fee0bbc2173c6",
+            "5aeee4ade64bc34bf68a8e4ae5e6c1a0",
+            "57324fd1ea49c97c43510f9aa8e3ba7b"
+        ],
+        "Helicopter": [
+            "54d893f8b4e4046d657a6b7184bdd46e",
+            "3315eecec7d7fc676bdb86dd994fa854",
+            "71516ab131e80269a294ffdcf0d186b"
+        ],
+        "Horse": [
+            "b00d28860f3611bde80df3c23687288a",
+            "df98cb748235d867f220c4e9a8cb807d",
+            "275ae350bed8f38470a43c2d978e502e"
+        ],
+        "KingBed": [
+            "6a6038ea0619ee7489452a0032ea575",
+            "3d14f0782e488c8bc19762eaa7ba40f",
+            "ed6c4f9b32734415c789678754b18008"
+        ],
+        "KneelingChair": [
+            "7a914a9c2560e305dd21fbad31cb234b"
+        ],
+        "LampPost": [
+            "66a7a9a417660413e2364c65f912dcd4",
+            "d075f33ff1e2e59dcbe58bca02f22502",
+            "199273d17414e77ca553fc23769e6051"
+        ],
+        "Loveseat": [
+            "b0dc4b4f59be2616104e1d07f0c67417",
+            "8c69c0bafdf91e85c05575120a46cd3b",
+            "9acd5908f934698ab96e240de9bbd844"
+        ],
+        "Magnet": [
+            "b53112340373a2e42549f2ccb7b74182"
+        ],
+        "Marker": [
+            "a5ebdd190b3cc8f125f2fde927e4b52e",
+            "220efd4f31815e176d445d819c3f9214"
+        ],
+        "Mattress": [
+            "e0a8829f5eaddc19b3140627a81cc669",
+            "5c8e4c697ff0a980edd9ab1253e1a9c4",
+            "f4520d008838e7bc171b03ec6def09f6"
+        ],
+        "MediaChest": [
+            "9ac71997e9eee1c1af5ada3edc49839"
+        ],
+        "MediaDiscs": [
+            "d8de20350b0e56f71c81652b127a0ec9",
+            "ca05e4cfb246b6fe522fcc08b7c3238",
+            "ee0653d46effbe279041477a84c33d16"
+        ],
+        "Microwave": [
+            "b3bf04a02a596b139220647403cfb896",
+            "891f65c773939191c834958aed613724",
+            "4c9a1496692048922ec64b86eca750d"
+        ],
+        "MilkCarton": [
+            "fce427271b63011bfefca37858a6cef8",
+            "3c426552b9df786b3f7f3ed2c3c690fe",
+            "72110f88e2e51bf450e961cdc6fb5c30"
+        ],
+        "MousePad": [
+            "15abbd934724fb0cdb1364f1359cc3fb",
+            "5fff976b5cce26716870e413ec7729b0",
+            "760bb845e930b20d3627f4333c06e848"
+        ],
+        "NintendoDS": [
+            "988c75e746230c8ee2a961da0ba4c636",
+            "5ae9e17a7f90db1f200c856a4ef1939f",
+            "6ec5528fb04c5b8e9a9bf2cd62bd4fba"
+        ],
+        "Notepad": [
+            "4337b56660cd5e0afb8b3801690d6c37",
+            "d2c752b71ef5a7fa58fe5738991208f7",
+            "a20afd7d3f1c0f51e652fa812161367"
+        ],
+        "Ottoman": [
+            "af016ced627b6a01b105c0ff6605e523",
+            "4627681e2a24a54ce6d580bdf97c264",
+            "2c995984cdb23504bda72093f9b5aa73"
+        ],
+        "OutdoorTable": [
+            "8fad924f79e60b1692048306732789ec",
+            "a6e21660cfacdba9cb2a965e75be701c",
+            "dca260c356a236053f2fc07aab1b396c"
+        ],
+        "PS": [
+            "d57f757bf70840f59a411f5d5972f475"
+        ],
+        "PS2": [
+            "7f105e033db0415b1cd8375f1cc88348",
+            "6bd2fe57f964005e1900df0c40b16bf3",
+            "156b55cd3d9a6757d239d19077185143"
+        ],
+        "PS3": [
+            "1bda25a8eeb4e3a4f38b08e8728ece50",
+            "656f7ddfa0cdedee35d768933c3d9f8f",
+            "1fb628f164cd9061eddf855432d54f76"
+        ],
+        "PSP": [
+            "ff046c0abae97cd026f42816cc41d614",
+            "2581265a7c81684b9141c153bb8dff6e",
+            "6f790be92e6e44659bd828aa88bf7e51"
+        ],
+        "Pan": [
+            "8700ac31400f39646c1715a656a459af",
+            "436e1ae9112384fbf4cc5d95933e54b",
+            "a5e0efaaf0ded23e88d29413a3dd87fd"
+        ],
+        "Paper": [
+            "8d11b63e0875afff3c25881b9672607c",
+            "eebc68c22c72ee2c63915d3d0e86b8e1",
+            "12bfa757452ae83d4c5341ee07f41676"
+        ],
+        "PaperClip": [
+            "85759437a3778a5f1aec2282dd8bc87a",
+            "aa9e9ada49384b2dd815bd092caa41a1",
+            "eae0ad4338f22f3f7c8489092272d18"
+        ],
+        "Pedestal": [
+            "8e77f144dc5480ee79e40cecd90ba7b5",
+            "955cb37da661a7e0dc4b37ea6112d64c",
+            "2c0eb289f216c41584536aa725442da"
+        ],
+        "PillBottle": [
+            "11a0f60b9baaaf59968608843530f3d7",
+            "8e6277003de9770a7c35d3c5d3b1fcf7",
+            "6bfcacdff00d57c633774da3deff863"
+        ],
+        "Pizza": [
+            "2ec5cf929da01dbe829f996f73431f83",
+            "29fe6bf8e9c364a545004a22a9d35958",
+            "2d89a3594a33a4a8d81345019d0d7fb2"
+        ],
+        "Plate": [
+            "f151b5b32400054bebe0518a81e2c5c8",
+            "bf4e419f863966f1bcbb3468b0bfc2ac",
+            "cc87e29afe238126e20e92c5b8147e4a"
+        ],
+        "Plotter": [
+            "d92d3fe1e9174e3fe0db0b99552a07a3"
+        ],
+        "PosterBed": [
+            "f5f8fe12a1afe7bc98d5fc0473d00a1c",
+            "9c07429df4241f667ce3895bf5051a5c",
+            "ef3d44f20e91a0b335836c728d324152"
+        ],
+        "PotRack": [
+            "22f3456d18843c51a3d3cfcc7a42cc66"
+        ],
+        "PowerSocket": [
+            "c423fae01d1524d9388a3b2bafcebb0f",
+            "96586adc2713f007ae3f1027a7181d95",
+            "df94d8d69cc78433589dec10abd1b738"
+        ],
+        "PowerStrip": [
+            "3ebc74beecdb42d1d3dad974dc098fa1",
+            "ecf192b5e49e1b111191025061735ea3",
+            "c3f1944d562738f7daaccab222ac90bc"
+        ],
+        "Purse": [
+            "add50bbf543ba7eaeab2bd7322386ffd",
+            "4a67dccd91447cfa504721639e19f609",
+            "f5800755a78fc83957be02cb1dc1e62"
+        ],
+        "QueenBedWithNightstand": [
+            "c86465f9bbae08b81a45715c707f2aef",
+            "87870712d104cf964fc1553be5e987de",
+            "fd38c20c0b356ff734580ff5342745d5"
+        ],
+        "Rack": [
+            "c8f6a37679120905ae14646a8c8ddd34",
+            "92e7291d8cd658a7cb2a965e75be701c",
+            "279430474957c013b9d7c2fc41e80228"
+        ],
+        "Radio": [
+            "e713415e4a6b3307ddc7cb5aa929cbf",
+            "7d1f7561729128f41f8d5edb17ddb332",
+            "d6d24f50c1b69bd24c40f34de8f3bdb8"
+        ],
+        "Ring": [
+            "9451d2c47dcc1980446afc8051bc4afc",
+            "c2a5bada7eabb88cb2d2900ee0ae7e0",
+            "5d54885f9b7f64b1b59cdd71b032af64"
+        ],
+        "Room": [
+            "room02",
+            "room05",
+            "room04"
+        ],
+        "RoundBed": [
+            "47a9280ddda0d6bbe3f7a74e12a274ef",
+            "2a186bc37c3f82934a19fb7da722fffe"
+        ],
+        "RubiksCube": [
+            "519c4e78191acdcae2a5d596858e729c",
+            "1e3d89eb3b5427053bdd31f1cd9eec98",
+            "cdda3ea70d829d5baa9ba8e71ae84fd3"
+        ],
+        "Ruler": [
+            "25f4d4cd67e9531a3742135a31826a22",
+            "3ca36a38dbf925665ad914839c51e370",
+            "7154a06a86fedcac488887a53f46a53"
+        ],
+        "Sandwich": [
+            "10a4e3c7c20cde9f3480e103b4cacefa",
+            "7902e438835292de683651cbc8e49e4f",
+            "d5642cb4a832a236cf9bbc203a5cff99"
+        ],
+        "Scissors": [
+            "7269bfabad0e849fae2e418ba2a26fc3",
+            "60ab6f3ec6a2241f64dcee9870d0c27",
+            "11666b64fa53ee4c635f2989c7524167"
+        ],
+        "ScrewDriver": [
+            "28d88f47398c462977d2282deeabd2a4"
+        ],
+        "Sectional": [
+            "47c45ac7187a9674421b433358248213",
+            "d8de84e7c0f8cbb19473aab1da686220",
+            "fee8e1e0161f69b0db039d8689a74349"
+        ],
+        "Shampoo": [
+            "f919431276935ea05d8eba92952b9366",
+            "2956aa89a775941267510767535a263a",
+            "f483d21f78a9d355ca6af78bbbd6d20"
+        ],
+        "Sheep": [
+            "554db91bf0835764fbb35151afcb9cd5"
+        ],
+        "Ship": [
+            "3f31208bf7adf03610aa1fb812b74966",
+            "426dad839f0b0ce8cad9e942409f4e39",
+            "c74dbde6656efb4eb4248d66f92b2feb"
+        ],
+        "Shirt": [
+            "75788b0b4a5f4499a5d9e352dbc57182",
+            "d3ed89e212b9275e1deb48513aeadf93",
+            "22fec0b6bc7dd1e02b83c6aff4f036a6"
+        ],
+        "Shoes": [
+            "2c2f99c7fc9e914d978eac5bf3137468",
+            "16ac39c5f6486b4f4b67691a60194771",
+            "ec5553fc57330bcbcc114fe581b5852"
+        ],
+        "Shower": [
+            "f14d5177892763576d4141a2a3994e3e",
+            "ae993b656fdf12a244ffd40e5b9a3e75",
+            "978b506310ce6f6dc972097815c57d96"
+        ],
+        "Showerhead": [
+            "a07befe4a4173cc33321831d2245cf06",
+            "6b940f85e82457d28a1b73194a8a176f",
+            "c04fd0df2310b7653321831d2245cf06"
+        ],
+        "SoapBar": [
+            "c96bfdeccb6d92d141b965cb8ba50814",
+            "5aba32dba149598911f4f6c1a9b8e604",
+            "b3718bdc7025004813f5ec8466b8a488"
+        ],
+        "SoapBottle": [
+            "a5912dff7ed43650cf6ede117dc51e3d",
+            "9edfe64416a9646e30612f5c0ef21eb8",
+            "43762b28fb40088f724d867867ccd9fb"
+        ],
+        "Spoon": [
+            "c63171cdc8eaedd23a63a352b1ae090d",
+            "91b14c74a87d1ed51e652fa812161367",
+            "dfd87854f4686dffabeb890a269504bb"
+        ],
+        "Statue": [
+            "d3ca5d06ad8ab969b2644d7d4d7ea2c7",
+            "c2f594f29b86cb8fcad6a699dd685278",
+            "114aff55d9933650a83967b36ab91a2e"
+        ],
+        "Suitcase": [
+            "133c16fc6ca7d77676bb31db0358e9c6",
+            "b2c9ac70c58c90fa6dd2d391b72f2211",
+            "243a834cd29541e8f0117851f0671fde"
+        ],
+        "Tank": [
+            "79abfbd42cb5a78f0985368fed75674",
+            "187b8cfebe4e9257ccec770873355bd5",
+            "ca1190ff827af8c4dbe62544818af5a6"
+        ],
+        "TapeMeasure": [
+            "2a56903c620c0ea8214eb5a22e115fe",
+            "6408b6515dd32c24e1c66c898fdf65b7",
+            "e8951611e2c25ac1314b44839465ec00"
+        ],
+        "Teacup": [
+            "31fcf965836ab3484212ff51b27f0221",
+            "5bbc259497af2fa15db77ed1f5c8b93",
+            "5b4f446bc0844d8a502ac88bde4dfaa5"
+        ],
+        "Teapot": [
+            "139af10e719186bddaa266217a65f9d7",
+            "93c6553dc3f2ad11012cc02986a86c3",
+            "ef16485d8a6750e84212ff51b27f0221"
+        ],
+        "Thermostat": [
+            "e5a96400ffb51cc464c33a5741e8e076",
+            "c2b73966ca4024ef38b28f94c165f833"
+        ],
+        "TissueBox": [
+            "8808de6ba868499bb8183a4a81361b94",
+            "a65eb3d3898cdd9a48e2056fc010654d",
+            "e1a25cabcd4b233bb4c86e56e2f0dc0c"
+        ],
+        "Truck": [
+            "6c8707d2fd87946937e5d0c5b4892f98",
+            "acb1617efd51854339ad6b48a26028ff",
+            "5cb47a5fb94561edff0eae68b4acfcd2"
+        ],
+        "Vanity": [
+            "721c788bb55b083ae8a9bc001231a118",
+            "3a446f5836af78d368207c774f0f143b",
+            "eb5b11f0820f73acc5d9967b65588a28"
+        ],
+        "VideoGameConsole": [
+            "ab149b0025e3c44b568e6dc851dcc963",
+            "614f21133d44498313863167023e6b10",
+            "49ba4f628a955bf03742135a31826a22"
+        ],
+        "VideoGameController": [
+            "1ddf7826d6dff2cccffdc5bf87b1e5e2",
+            "37dee4c7174754508394f037467060c4",
+            "dd4e96db89cc5ceed6b02c5f099ea354"
+        ],
+        "Wallet": [
+            "52431cf438b7a1c5606b049766a67fa3"
+        ],
+        "Washer": [
+            "8ef93a18aca9f3bc69569e953575ec69",
+            "2d17f0548116c3d143c8f1cd479ffb1e",
+            "5c9f3048f79110485b5b328c62af5142"
+        ],
+        "Watch": [
+            "3a5351666689a7b2b788559e93c74a0f",
+            "9f7be3718a4ce14fa9b896e91fe8701d",
+            "e743856943ce4fa49a9248bc70f7492"
+        ],
+        "WebCam": [
+            "edebe12abd973d22c2fbfa4bf3252b56",
+            "1298634053ad50d36d07c55cf995503e",
+            "e64aaf8669fbd1af3610607758daee7e"
+        ],
+        "Whiteboard": [
+            "871dcd6740ed8d2891a7ac029a825f73",
+            "a5c6d3b9945df19dc534b4cdb1fd80d6",
+            "3b3b504c2c9239a011636a880a1a329e"
+        ],
+        "Wii": [
+            "c8c758ef2b7d7a23f66b157d37894874",
+            "db6f10562aa28e9e8e62780ddf14e62c",
+            "a5425df91d215d57b2a9b45b5a44dda3"
+        ],
+        "WineGlass": [
+            "ec742ff34906e5e890234001fde0a408",
+            "461664fa3a9ad7a18ee45bd8e008284e",
+            "e679ad6179be41ccb444b3a14f91a38c"
+        ],
+        "WineRack": [
+            "1be8eec62ba48fb0687c484f0874b1cb",
+            "d58c53265975851c738e43095496b061",
+            "a58bd8a2c17b219282c910029b5cf54"
+        ],
+        "Xbox": [
+            "d2dedc99ce921b9beb70f93641d00839",
+            "d664ee564fcf5ff9d9deb3f829cc2475",
+            "e9f575a666fc26aeeb6dfb094ca5145"
+        ],
+        "Xbox360": [
+            "72e4d858c9356150a8db05c665c242d0",
+            "605f66221c1da5c53b1ca30c6f5a0300",
+            "33c76a59e0f2a38cbf4723a8638af381"
+        ]
+    }
+}
