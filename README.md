@@ -1,6 +1,6 @@
 # GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions
 
-[**Paper**](https://arxiv.org/abs/2206.02780) | [**Project Page**](https://light.princeton.edu/publication/gensdf/) <br>
+[**Paper**](https://light.princeton.edu/wp-content/uploads/2022/10/gensdf_main.pdf) | [**Supplement**](https://light.princeton.edu/wp-content/uploads/2022/10/gensdf_supp.pdf) | [**Project Page**](https://light.princeton.edu/publication/gensdf/) | [**Teaser**](https://light.princeton.edu/wp-content/uploads/2022/10/gensdf_promo_4x3.mp4) <br>
 
 ![promo_gif](https://user-images.githubusercontent.com/54369977/194955191-269a8d19-fada-4347-bb9c-f6a0754da24b.gif)
 
