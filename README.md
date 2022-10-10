@@ -1,28 +1,25 @@
-# Neural Signed Distance Functions
+# GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions
 
-This repository contains a codebase for easy reproduction and incorporation of SDF and Occupancy methods. Currently includes GenSDF, DeepSDF, Convolutional Occupancy Networks, and NeuralPull. Note that these methods except for GenSDF are **not** necessarily optimized and may require minor tweaks (e.g., hyperparameter changes) for optimal performance; we encourage users to validate with original implementations. We provide links and references below.
+[**Paper**](https://arxiv.org/abs/2206.02780) | [**Project Page**](https://light.princeton.edu/publication/gensdf/) <br>
 
+![promo_gif](https://user-images.githubusercontent.com/54369977/194955191-269a8d19-fada-4347-bb9c-f6a0754da24b.gif)
 
-This repository is also the official implementation of <br> 
+This repository contains the official implementation of <br> 
 **GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions** <br>
-Gene Chou, Ilya Chugunov, Felix Heide  
+[Gene Chou](https://genechou.com), [Ilya Chugunov](https://ilyac.info), [Felix Heide](https://www.cs.princeton.edu/~fheide/) <br>
+**NeurIPS 2022**
 
-[**Paper and Supplementary**](https://arxiv.org/abs/2206.02780) <br>
-
-<div style="text-align: center">
-<img src="config/gensdf/teaser.png" width="900"/>
-</div>
 
 If you find our code or paper useful, please consider citing
 ```bibtex
-@article{chou2022gensdf,
-  title={GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions},
-  author={Chou, Gene and Chugunov, Ilya and Heide, Felix},
-  journal={arXiv preprint arXiv:2206.02780},
-  year={2022}
+@inproceedings{chou2022gensdf,
+title={GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions},
+author={Chou, Gene and Chugunov, Ilya and Heide, Felix},
+booktitle={Proc. of Neural Information Processing Systems (NeurIPS)},
+year={2022}
 }
 ```
-
+Additionally, this repository is designed for reproduction and incorporation of SDF and Occupancy methods. Currently includes GenSDF, DeepSDF, Convolutional Occupancy Networks, and NeuralPull. Note that these methods except for GenSDF are **not** necessarily optimized and may require minor tweaks (e.g., hyperparameter changes) for optimal performance; we encourage users to validate with original implementations. We provide links and references below.
 
 ```cpp
 SDF lib
