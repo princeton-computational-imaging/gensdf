@@ -75,7 +75,7 @@ python test_single.py -f data/acronym/Bear/52f9a230c400bddd55330ea4156a425f/sdf_
 
 For training, we first recenter and normalize input data. We also apply these steps for an input point cloud in `test_single.py`. See supplement for an explanation. For training, we preprocess all files and store results in csv format. Each csv file corresponds to one object, and each line represents a coordinate followed by its signed distance value. See `data/acronym` for examples. <br>
 
-For labeled data (i.e., meshes), we recommend first recentering and normalizing the object, then sample point clouds and query points. The ground truth signed distance values for all points can be calculated from the mesh and stored into csv files. <br>
+For labeled data (i.e., meshes), we recommend first recentering and normalizing the object, then sampling point clouds and query points. The ground truth signed distance values for all points can be calculated from the mesh and stored into csv files. <br>
 
 We train using the [Acronym](https://github.com/NVlabs/acronym) dataset. Place your dataset in the `data` folder following the current structure, and provide the train/test split in the `config` spec files.
 
@@ -101,6 +101,6 @@ python test.py -e config/gensdf/semi -r last
 
 ## References
 We adapt code from <br>
-DeepSDF https://github.com/facebookresearch/DeepSDF <br>
-Convolutional Occupancy Networks https://github.com/autonomousvision/convolutional_occupancy_networks <br>
-NeuralPull https://github.com/bearprin/neuralpull-pytorch/tree/history-2
+DeepSDF: https://github.com/facebookresearch/DeepSDF <br>
+Convolutional Occupancy Networks: https://github.com/autonomousvision/convolutional_occupancy_networks <br>
+NeuralPull: https://github.com/bearprin/neuralpull-pytorch/tree/history-2
